@@ -6,7 +6,9 @@ Im currently developing Scripts for FiveM, with a focus on Overextended and ESX.
 
 ### Skills:
 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
+<a href="https://github.com/marvrb" style="text-decoration: None;"><img src="https://img.shields.io/badge/Editor-Visual%20studio%20code-%23007ACC?style=for-the-badge&logo=visualstudiocode" width="200">
+<a/> <a href="https://github.com/marvrb" style="text-decoration: None;"><img src="https://img.shields.io/badge/Main%20Language-Lua-3776AB?style=for-the-badge&logo=python" width="173"><a/>
 
 
 <div> 
