@@ -19,9 +19,9 @@ Im currently developing Scripts for FiveM, with a focus on Overextended and ESX.
 
 ### GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1OSaft&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<p align="center">
+<a href="https://github.com/1OSaft">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=1OSaft&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=1OSaft&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<a href="https://github.com/1OSaft/unr3al_backpack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1OSaft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</a>
+</p>
